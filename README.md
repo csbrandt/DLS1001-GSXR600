@@ -3,7 +3,7 @@
 
 **Desired Features**
 
-- Measure/log acceleration (in Gâ€™s) on the axisâ€™s (X, Y)
+- Measure/log acceleration (in G's) on the axis (X, Y)
 - Measure/log tilt angle in degrees along Z axis
 - Log speed from GSX-R600
 - Log RPM from GSX-R600
