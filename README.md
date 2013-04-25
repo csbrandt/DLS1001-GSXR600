@@ -2,7 +2,8 @@
 ### Datalogger Sport 2010 Mk. 01- 2006 Suzuki GSX-R600 (Designated Platform) ###
 
 **Desired Features**
-- Measure/log acceleration (in G’s) on the axis’s (X, Y)
+
+- Measure/log acceleration (in Gâ€™s) on the axisâ€™s (X, Y)
 - Measure/log tilt angle in degrees along Z axis
 - Log speed from GSX-R600
 - Log RPM from GSX-R600
@@ -11,30 +12,35 @@
 - Log Gear Position (GPS)
 
 **Speed Sensor/GPS/TPS/ECTS**
+
 - Pin 6 ECM Terminal
 - B/G
 - Output
   * TTL Square wave
 
 **Tachometer**
+
 - Pin 38 ECM Terminal
 - Unknown color
 - Output
   * Possible TTL Square wave (1 pulse per revolution)
 
 **Power Source**
+
 - Pin 17 ECM Terminal
 - Unknown color
 - Output
   * Unknown
 
 **Ground**
+
 - Pin 34 ECM Terminal
 - B/W
 - Output
   * N/A
 
 **Parts List**
+
 1. Arduino Nano 3.0 (ATMEGA328)
 2. Analog Devices Triple Axis Accelerometer Breakout - ADXL345
 3. LM7805 Voltage Regulator
